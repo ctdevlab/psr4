@@ -1,0 +1,10 @@
+{
+    "name": "ctdevlab/psr4",
+    "authors": [
+        {
+            "name": "Chris Tran",
+            "email": "christopher.huytran@gmail.com"
+        }
+    ],
+    "require": {}
+}
