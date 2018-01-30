@@ -6,5 +6,10 @@
             "email": "christopher.huytran@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "ctdevlab\\psr4\\": "src/"
+        }
+    },
     "require": {}
 }
